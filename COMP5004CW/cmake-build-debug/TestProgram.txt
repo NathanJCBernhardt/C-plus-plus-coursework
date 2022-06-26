@@ -1,0 +1,6 @@
+Location: 3
+
+H10 
+
+Inventory: 
+H12 H01 H10 

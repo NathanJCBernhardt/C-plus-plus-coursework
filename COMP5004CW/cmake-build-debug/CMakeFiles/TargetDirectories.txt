@@ -1,0 +1,3 @@
+C:/Users/Nathan/CLionProjects/COMP5004CW/cmake-build-debug/CMakeFiles/textadv.dir
+C:/Users/Nathan/CLionProjects/COMP5004CW/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nathan/CLionProjects/COMP5004CW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
